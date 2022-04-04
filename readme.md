@@ -15,7 +15,7 @@ Example URL :
 <br>
 <br>
 Code Base F URL :
-br>
+<br>
 <strong>https://www.instagram.com/directory/profiles/{i}-{j}</strong>
 
 <br>
