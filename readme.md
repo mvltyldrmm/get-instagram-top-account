@@ -7,10 +7,12 @@
 <hr>
 
 Example URL :
-<link>https://www.instagram.com/directory/profiles/{1}-{2}</link>
+<link>https://www.instagram.com/directory/profiles/{1}-{2}</link> 
+<br>
 <link>https://www.instagram.com/directory/profiles/{5}-{4}</link>
+<br>
 <link>https://www.instagram.com/directory/profiles/{15}-{2}</link>
-
+<br>
 Code Base F URL :
 <strong>https://www.instagram.com/directory/profiles/{i}-{j}</strong>
 
